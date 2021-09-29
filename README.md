@@ -9,6 +9,6 @@ A simple whatsapp chat bot to send messages
 # To run app
 - Create virtual Environment
 - Install requirements
-`pip install requirements.txt`
+`pip install pywhatkit`
 - run app
 `python main.py`
